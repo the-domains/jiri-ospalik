@@ -12,3 +12,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: Jiri Ospalik
+navigation:
+  - id: 'https://www.facebook.com/pages/Jiri-Ospalik/174950935881613'
+    url: 'https://www.facebook.com/pages/Jiri-Ospalik/174950935881613'
+    name: Facebook Pages
+    type: external
