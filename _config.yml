@@ -17,3 +17,7 @@ navigation:
     url: 'https://www.facebook.com/pages/Jiri-Ospalik/174950935881613'
     name: Facebook Pages
     type: external
+  - id: 'http://jiriospalik.com/'
+    url: 'http://jiriospalik.com/'
+    name: Personal Pages
+    type: external
