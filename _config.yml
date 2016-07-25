@@ -6,9 +6,9 @@ color:
   saturation: 0.08629970159381628
   rhythmicContrast: 0.040033788653090596
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Jiri Ospalik
