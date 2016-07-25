@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T01:53:21.147Z'
+datePublished: '2016-07-25T01:53:21.143Z'
 sourcePath: _posts/2016-04-15-inside-the-stunning-mansion-in-ex-machina.md
 inFeed: true
 isBasedOnUrl: 'http://www.vanityfair.com/hollywood/2015/04/ex-machina-location'
@@ -20,7 +20,7 @@ author:
   - name: Katey Rich
     url: 'http://www.vanityfair.com/contributor/katey-rich'
     avatar: {}
-dateModified: '2016-07-25T01:53:15.723Z'
+dateModified: '2016-07-25T01:53:17.911Z'
 title: Inside the Stunning Mansion in Ex Machina
 app_links: []
 publisher:
