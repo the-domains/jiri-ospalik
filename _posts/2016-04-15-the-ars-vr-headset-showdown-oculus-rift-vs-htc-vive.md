@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T01:53:21.120Z'
+datePublished: '2016-07-25T01:53:21.143Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ author:
   - name: Kyle Orland
     url: 'http://arstechnica.com/author/kyle-orland/'
     avatar: {}
-dateModified: '2016-07-25T01:53:15.631Z'
+dateModified: '2016-07-25T01:53:17.407Z'
 title: The Ars VR headset showdown-Oculus Rift vs. HTC Vive
 app_links: []
 publisher:
