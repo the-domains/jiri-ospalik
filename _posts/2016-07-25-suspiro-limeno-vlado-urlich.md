@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=5vixgrc4Lko'
 title: Suspiro Limeno - Vlado Urlich
-datePublished: '2016-07-25T04:27:41.772Z'
-dateModified: '2016-07-25T04:27:35.788Z'
+datePublished: '2016-07-26T01:31:06.175Z'
+dateModified: '2016-07-26T01:31:04.752Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-suspiro-limeno-vlado-urlich.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: suspiro-limeno-vlado-urlich/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
