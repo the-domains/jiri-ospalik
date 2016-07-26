@@ -59,16 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=V3xYDF8itfQ'
 title: Mezcla Orquesta - Quiero
-datePublished: '2016-07-25T04:27:11.595Z'
-dateModified: '2016-07-25T04:27:11.461Z'
+datePublished: '2016-07-26T01:29:01.603Z'
+dateModified: '2016-07-26T01:29:01.117Z'
 via: {}
 sourcePath: _posts/2016-07-25-mezcla-orquesta-quiero.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: mezcla-orquesta-quiero/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
