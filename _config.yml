@@ -1,4 +1,3 @@
-layout_spectrum: 0.33395748981274664
 typography_spectrum: 0.40302811609581113
 color:
   brandStrength: 0.45479696663096547
@@ -11,17 +10,16 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.33395748981274664
 name: Jiri Ospalik
 navigation:
-  - id: 'https://www.facebook.com/pages/Jiri-Ospalik/174950935881613'
+  - name: Facebook Pages
     url: 'https://www.facebook.com/pages/Jiri-Ospalik/174950935881613'
-    name: Facebook Pages
     type: external
-  - id: 'http://jiriospalik.com/'
+  - name: Personal Pages
     url: 'http://jiriospalik.com/'
-    name: Personal Pages
     type: external
-  - id: 0c7c6ca7-1f48-41ec-b399-085faab4b9f3
-    url: 2016-07-25-54272fc6-0901-4875-96c2-b1bccb0cc754.html
-    name: Photos
+  - name: Photos
+    id: 0c7c6ca7-1f48-41ec-b399-085faab4b9f3
     type: content
+title: Jiri Ospalik
