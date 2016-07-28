@@ -10,7 +10,17 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+opengraph:
+  appId: 'https://www.facebook.com/jiriospalik/'
+  type: Profile
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd97e12a-813b-4be4-abbf-ef88bc349e20.jpg
 layout_spectrum: 0.33395748981274664
+author:
+  name: Jiri Ospalik
+  email: jiri.ospalik@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e82d56e-a5a0-4c6c-9900-46e7bf957085.jpg
 name: Jiri Ospalik
 navigation:
   - name: Facebook Pages
@@ -22,5 +32,7 @@ navigation:
   - name: Photos
     id: 0c7c6ca7-1f48-41ec-b399-085faab4b9f3
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9cb204-7e74-4380-9b4e-357b67128fa9.jpg
 title: Jiri Ospalik
 description: Composer and Pianist
